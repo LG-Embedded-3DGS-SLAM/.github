@@ -16,3 +16,6 @@
 
 ### 3DGS Mapping Module
 #### [Repo](https://github.com/LG-Embedded-3DGS-SLAM/3DGS_mapping_module.git)
+
+### Sensor Drivers
+#### [Femto Mega](https://github.com/LG-Embedded-3DGS-SLAM/Femto_driver.git)
